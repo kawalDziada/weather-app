@@ -1449,8 +1449,8 @@ pg-types@~2.0.0:
     postgres-interval "^1.1.0"
 
 pg@^7.9.0:
-  version "7.9.0"
-  resolved "https://registry.yarnpkg.com/pg/-/pg-7.9.0.tgz#04f0024d810544463f47dbb5aada2486aa7dcc36"
+  version "7.12.0"
+  resolved "https://registry.yarnpkg.com/pg/-/pg-7.12.0.tgz#e1b883afe14acb0db58385c20bb7236c7e0aef56"
   dependencies:
     buffer-writer "2.0.0"
     packet-reader "1.0.0"
